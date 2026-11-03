@@ -72,4 +72,4 @@ M. E. Sahin, "Real-time driver drowsiness detection and classification on embedd
 
 ---
 
-*Academic project developed for driver safety monitoring and drowsiness detection research.*
+Developed as an academic project focused on intelligent driver monitoring and real-time drowsiness detection.
